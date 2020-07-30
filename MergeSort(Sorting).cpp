@@ -1,3 +1,12 @@
+/*
+                              ---Time complexity Analysis ---
+Best case time complexity :   nlogn
+Average case time complexity : nlogn
+Worst case time complexity :   nlogn
+
+Note : MergeSort is an Stable sort.
+*/
+
 /* C program for Merge Sort */
 #include <stdio.h> 
 #include <stdlib.h> 
